@@ -2,6 +2,7 @@
 
 ## infinite canvas 
 
+### milanote
 ![](milanote.jpg)
 http://www.milanote.com
 Review 2017-02-07:
@@ -10,6 +11,7 @@ Review 2017-02-07:
 - no multiple items selection
 - meh
 
+### spacedeck
 ![](spacedeck.jpg)
 https://spacedeck.com
 Review 2017-02-07
