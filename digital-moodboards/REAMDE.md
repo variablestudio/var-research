@@ -2,6 +2,10 @@
 
 ## infinite canvas 
 
+### sketch
+
+- Surprisinly good enough but text editing is fainful
+
 ### milanote
 ![](milanote.jpg)
 http://www.milanote.com
