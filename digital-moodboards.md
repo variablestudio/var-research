@@ -3,6 +3,7 @@
 ## infinite canvas 
 
 http://www.milanote.com
+https://spacedeck.com
 
 ## Note taking + visual
 
