@@ -10,7 +10,13 @@ Review 2017-02-07:
 - no multiple items selection
 - meh
 
+![](spacedeck.jpg)
 https://spacedeck.com
+Review 2017-02-07
+- quirky navigation
+- blinking images in safari while panning
+- + multiple select
+- i'm loosing hope DOM based UI can deliver in this space
 
 ## Note taking + visual
 
