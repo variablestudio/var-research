@@ -20,3 +20,9 @@ https://github.com/kode80/kode80SSR/blob/master/Assets/Resources/Shaders/SSR.sha
 
 ## Screen Space Ray Tracing by Morgan McGuire
 http://casual-effects.blogspot.co.uk/2014/08/screen-space-ray-tracing.html
+http://jcgt.org/published/0003/04/04/
+https://gitlab.com/morgan3d/g3d/blob/master/G3D10/G3D.lib/source/
+
+## Unity
+https://bitbucket.org/Unity-Technologies/cinematic-image-effects/src/7688c95b03d245b3bd9daf8000cb33a052349b89/UnityProject/Assets/Standard%20Assets/Effects/CinematicEffects(BETA)/ScreenSpaceReflection/Resources/ScreenSpaceReflection.shader?at=trunk&fileviewer=file-view-default
+
