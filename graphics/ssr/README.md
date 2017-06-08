@@ -1,5 +1,11 @@
 # Screen Space Reflections SSR
 
+## Screen space glossy reflections
+
+http://roar11.com/2015/07/screen-space-glossy-reflections/
+
+![](roar_ssr.jpg)
+
 ## Screen Space Reflections in Killing Floor 2 (including source code)
 
 https://sakibsaikia.github.io/2016/12/26/Screen-Space-Reflection-in-Killing-Floor-2.html
