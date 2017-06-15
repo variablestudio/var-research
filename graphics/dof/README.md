@@ -1,5 +1,9 @@
 # Depth of Field
 
+## Next Gen
+
+https://bartwronski.com/2014/12/09/designing-a-next-generation-post-effects-pipeline/amp/
+
 ## Bokeh blur
 
 Hexagonal Bokeh Blur Revisited
